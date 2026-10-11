@@ -1,9 +1,11 @@
 {
   "schema": "github-canonical-poc-v1",
   "workflow_id": "demo",
-  "revision": 0,
-  "previous_commit": null,
-  "last_operation": null,
-  "applied_operations": [],
-  "note": "GENESIS: synthetic public test only"
+  "revision": 1,
+  "previous_commit": "813ba326d64a9fcf511e2655935f5f5fdd5a5c8c",
+  "last_operation": "op-a-001",
+  "applied_operations": [
+    "op-a-001"
+  ],
+  "note": "First public dummy transition"
 }

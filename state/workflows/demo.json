@@ -1,11 +1,12 @@
 {
   "schema": "github-canonical-poc-v1",
   "workflow_id": "demo",
-  "revision": 1,
-  "previous_commit": "813ba326d64a9fcf511e2655935f5f5fdd5a5c8c",
-  "last_operation": "op-a-001",
+  "revision": 2,
+  "previous_commit": "0000000000000000000000000000000000000000",
+  "last_operation": "op-c-003",
   "applied_operations": [
-    "op-a-001"
+    "op-a-001",
+    "op-c-003"
   ],
-  "note": "First public dummy transition"
+  "note": "INVALID TEST: stale"
 }
